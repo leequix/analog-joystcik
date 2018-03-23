@@ -1,0 +1,20 @@
+{
+  "name": "AnalogJoystick",
+  "version": "1.0.0",
+  "keywords": "analog, joystick",
+  "description": "Arduino library for joystick control",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leequix/analog-joystcik.git"
+  },
+  "authors": [
+    {
+      "name": "leequix",
+      "email": "leequix@yandex.com",
+      "url": "https://github.com/leequix",
+      "maintainer": true
+    }
+  ],
+  "platforms": "*",
+  "frameworks": "arduino"
+}
